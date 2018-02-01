@@ -1,7 +1,7 @@
-object kata extends App {
-
-  def makeList (Number: Int) : List[Int] = {
-    val y = (1 to Number).toList.reverse
+ def makeList (Number: Int) : List[Int] = {
+    val y = (1 to Number).toList
     y
   }
-  println(makeList(5))
+
+ if (val y 2 == 0)
+  print(s"$y")
