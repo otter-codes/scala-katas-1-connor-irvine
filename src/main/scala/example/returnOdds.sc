@@ -1,7 +1,5 @@
  def makeList (Number: Int) : List[Int] = {
-    val y = (1 to Number).toList
-    y
+    val y = List.range(1, Number)
+   y.filter(x => x % 2 != 0)
   }
-
- if (val y 2 == 0)
-  print(s"$y")
+ makeList(13)

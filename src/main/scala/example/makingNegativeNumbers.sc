@@ -1,4 +1,10 @@
 
-class Int(val: Int)
-if val  <0 return val
-else val >0 return ("-" + val)
+def negNum(number: Int) : Int = {
+  if (number < 0) {
+  return number
+  } else {
+    -number
+  }
+}
+
+negNum()
