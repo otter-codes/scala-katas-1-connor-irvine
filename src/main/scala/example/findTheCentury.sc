@@ -1,5 +1,5 @@
 import scala.io.StdIn
 
-  val year = StdIn.readLine("enter a year: \n").toInt
+  val year = 1066 //StdIn.readLine("enter a year: \n").toInt
 
-  println(val year/100) + 1 = year: Int)
+  val cent = (((year-1)/100)+1)

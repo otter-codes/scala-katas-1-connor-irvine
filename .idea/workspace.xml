@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f151f051-d3c2-4cf0-b838-cd74ba56ecbe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc" afterPath="$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/makingNegativeNumbers.sc" afterPath="$PROJECT_DIR$/src/main/scala/example/makingNegativeNumbers.sc" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/returnOdds.sc" afterPath="$PROJECT_DIR$/src/main/scala/example/returnOdds.sc" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -66,8 +64,8 @@
       <file leaf-file-name="findTheCentury.sc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="72">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -106,8 +104,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/example/dropletters.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/example/stringSpace.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/example/returnOdds.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/example/makingNegativeNumbers.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc" />
       </list>
     </option>
   </component>
@@ -408,7 +406,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297561" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297561" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -481,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/findTheCentury.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="72">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
